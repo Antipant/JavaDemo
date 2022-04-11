@@ -80,7 +80,7 @@ public class FirstApp {
         return first / second;
     }
     static double mod(double first, double second) {
-        return first / second;
+        return first % second;
     }
     static void over() {
         byte val = 1;
